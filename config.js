@@ -55,11 +55,11 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['447405935355']
+global.owner = ['265995013516']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '265995013516' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "GLITCH VINTAGE 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
@@ -71,9 +71,9 @@ global.reactmoji = "😘" //ur menu react emoji
 
 global.themeemoji = "🐤" //ur theme emoji
 
-global.packname = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
+global.packname = '🐥 GLITCH \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
 
-global.author = '\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ ' //ur sticker watermark author
+global.author = 'NKHAMBULE ISHMAEL ' //ur sticker watermark author
 
 
 
@@ -91,7 +91,7 @@ global.thumbz = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw
 
 
 
-global.premium = global.premiumzz || ['447405935355'] //ur premium numbers
+global.premium = global.premiumzz || ['0995013516'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -132,7 +132,7 @@ global.mess = {
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    banChat: 'The bot was banned in this group, please contact the owner NKHAMBULE ISHMAEL to unban'
 }
 
 global.SessName = './session.alfa.json'
