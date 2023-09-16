@@ -292,4 +292,11 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
+❗You can use the Session ID provided when you sacn the QR
+ 
+OR
+  
+❗ You can upload the given session.alfa.json file to github itself
+  
+(The sesond method works well compared to the first one)
 
